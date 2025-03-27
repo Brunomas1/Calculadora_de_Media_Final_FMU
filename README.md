@@ -1,4 +1,4 @@
-# Calculadora de Média Final da Disciplina Online
+# Calculadora de Média Final FMU
 
 Este projeto consiste em uma calculadora interativa desenvolvida para ser executada no Google Colab, utilizando Python e a biblioteca `ipywidgets`. A calculadora calcula a média final de uma disciplina online, aplicando regras específicas de avaliação, e exibe o resultado com uma formatação adaptativa para dark mode e light mode.
 
