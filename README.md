@@ -36,8 +36,11 @@ Além disso, o projeto inclui um bloco de CSS que ajusta a aparência do resulta
 ## Como Utilizar
 
 1. **Abrir no Google Colab:**
-   - Acesse [Google Colab](https://colab.research.google.com/) e crie um novo notebook.
-   - Copie e cole o código fonte da calculadora (disponível neste repositório) em uma célula do notebook.
+   - Acesse o notebook interativo diretamente através do seguinte link:
+     
+     [Abrir no Google Colab](https://colab.research.google.com/drive/1ezdAGoNnM8rfr5k6IBuixBczU62lXJCM?usp=sharing)
+     
+   - Você também pode criar um novo notebook no [Google Colab](https://colab.research.google.com/) e copiar o código fonte da calculadora (disponível neste repositório) em uma célula.
 
 2. **Executar a Célula:**
    - Execute a célula para carregar a interface interativa.
@@ -48,7 +51,7 @@ Além disso, o projeto inclui um bloco de CSS que ajusta a aparência do resulta
 ## Requisitos
 
 - Python 3.x
-- [Google Colab](https://colab.research.google.com/drive/1ezdAGoNnM8rfr5k6IBuixBczU62lXJCM?usp=sharing)
+- [Google Colab](https://colab.research.google.com/)
 - Biblioteca `ipywidgets`
 
 Para instalar a biblioteca `ipywidgets` (caso esteja utilizando um ambiente local), execute:
